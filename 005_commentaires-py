@@ -1,0 +1,11 @@
+# Ce programme a pour but de calculer
+# La moyenne de la classe
+
+notes = [12, 14, 8, 12.5, 16]
+moyenne = sum(notes) / len(notes)
+
+print("Moyenne de la classe:  ", moyenne)
+""" Ceci est un commentaire sur plusieurs lignes. 
+aucune erreur de syntaxe n'est signalée"""
+
+# Exercice: Remplacer les triples """ par des triples ''''
